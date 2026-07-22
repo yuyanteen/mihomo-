@@ -1,6 +1,7 @@
 payload:
 # 匹配任何包含 "missav" 关键词的域名
 - DOMAIN-KEYWORD,missav
+- DOMAIN-KEYWORD,javdb
 # 匹配 hanime1.me 及其所有子域名
 - DOMAIN-SUFFIX,hanime1.me
 
